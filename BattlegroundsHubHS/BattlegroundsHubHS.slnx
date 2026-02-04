@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="../BattlegroundsHub.Core/BattlegroundsHub.Core.csproj" />
-  <Project Path="../BattlegroundsHub.Storage/BattlegroundsHub.Storage.csproj" />
-  <Project Path="BattlegroundsHubHS.csproj" />
-</Solution>
